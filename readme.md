@@ -8,3 +8,5 @@ data_process的最后一个cell进行语义分割，点云和标签的产生，�
 使用mim download mmsegmentation --config pspnet_r50-d8_4xb2-40k_cityscapes-512x1024 --dest .      命令下载模型
 
 模型文件放在mmsegmentation/config文件夹
+
+三个脚本做了一定计算上的优化。
